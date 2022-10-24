@@ -1,0 +1,12 @@
+.MovieInfo {
+    width: 700px;
+    margin-top: 50px;
+}
+
+.PosterTitle {
+    display: flex;
+}
+
+.Poster {
+    margin-right: 35px;
+}

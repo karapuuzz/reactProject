@@ -1,0 +1,15 @@
+.MoviesPage {
+    background: rgba(239, 234, 234, 0.99);
+}
+
+.prevPageBtn {
+    width: 120px;
+    height: 35px;
+    cursor: pointer;
+}
+
+.nextPageBtn {
+    width: 120px;
+    height: 35px;
+    cursor: pointer;
+}
